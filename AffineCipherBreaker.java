@@ -45,7 +45,7 @@ public class AffineCipherBreaker {
             PrintWriter p = new PrintWriter(f);
 
             for (int j = 1; j <= 25; j++) {
-                for (int k = 0; k <= 26; k++) {
+                for (int k = 0; k <= 25; k++) {
 
                     StringBuilder s = new StringBuilder();
 
